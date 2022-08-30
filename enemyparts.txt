@@ -1,0 +1,6 @@
+<mod>::= Godly | Tyranical | Loot | Golden | Poor | Empty
+<health>::= Giga | Mega | Mirco | Nano
+<core>::= nat | terr | ventus | calor
+<dmg>::= arus | ite | oid | phyte
+<class>::= Overlord | Lord | Knight | Vassle | Servent
+<name>::= <mod> <health> <core> <dmg> <class> |  <mod> <health> <core> <dmg> | <health> <core> <dmg> <class> | <health> <core> <dmg>

@@ -1,0 +1,8 @@
+{
+    "history":{
+        "1.0":"updated DM response to correct channel, added changelog, added Betterbot in to the fun",
+        "1.1":"Added new !lead command",
+        "1.2":"Try !balance and !give. !help comming soon"
+    },
+    "latest":"Added !help command. Currently working on new styling and a way to spend Apa Coins"
+}
